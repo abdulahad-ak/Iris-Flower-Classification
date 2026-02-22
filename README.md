@@ -20,5 +20,4 @@ pip install -r requirements.txt
 python iris_classification.py
 
 ## Author
-
 Abdul Ahad
