@@ -21,4 +21,4 @@ python iris_classification.py
 
 ## Author
 
-Abdul Ahad Khan Kolachi
+Abdul Ahad
